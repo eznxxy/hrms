@@ -4,7 +4,7 @@ A free Human Resource Management System for your company
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://choosealicense.com/licenses/mit/)
 
-[![Laravel](https://img.shields.io/badge/Powered%20By-Laravel-f9332c.svg)](https://fruitcake.nl/)
+[![Laravel](https://img.shields.io/badge/Powered%20By-Laravel-f9332c.svg)](https://laravel.com/)
 
 ## Features
 
